@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\g0931\desktop\mario\source.cpp(156): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0931\desktop\mario\source.cpp(160): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0931\desktop\mario\source.cpp(163): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0931\desktop\mario\source.cpp(168): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0931\desktop\mario\source.cpp(171): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0931\desktop\mario\source.cpp(174): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  mario.vcxproj -> C:\Users\G0931\Desktop\mario\Debug\mario.exe
